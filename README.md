@@ -10,6 +10,7 @@ This project integrate angular-python to upload file to s3-bucket from angular
 ### Setup
 
 * cd backend/
+* create config/constant.py and add s3-credentials
 * virtualenv virtual_envornment
 * source virtual_envornment/bin/activate
 * pip install -r requirement.txt
