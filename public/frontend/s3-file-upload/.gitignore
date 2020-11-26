@@ -12,6 +12,7 @@
 
 # backend 
 public/backend/config/constant.py
+public/backend/venv
 
 # profiling files
 chrome-profiler-events*.json
